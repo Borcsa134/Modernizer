@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: Modernizer
+## Notes: Modernizing the UI
+## Author: Borcsa
+## Version: 0.1
+
+embeds.xml
+
+Modernizer.lua
